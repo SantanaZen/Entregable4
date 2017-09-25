@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ENTREGABLE_4_multiple_screens</string>
+
+    <string name="cereal">Cereal guy (El chico del cereal) es uno de los 7 memes más utilizados en viñetas de internet.
+        Es utilizado en los tablones de imágenes y foros de discusión como una cara reacción de usos múltiples. ...
+        Según él, lo sabe todo aunque en diversas ocasiones se equivoca, y cuando esto pasa escupe el cereal. </string>
+
+    <string name="fyeah">Fuck Yea es un triunfador, ilustra todos esos momentos de nuestras vidas cotidianas
+        donde nos sentimos unos cracks por algo que hemos conseguido, por muy chorrada que sea.
+        Las primeras viñetas tienen fecha de Febrero de 2010 en la comunidad 4chan. </string>
+
+    <string name="forever">En contra de lo que se suele pensar, el meme no expresa tristeza directamente, sino soledad o lástima por encontrarse solo,
+        (excepto en sus variaciones Forever Alone Happy/Exited) aunque también se identifica con rechazo u odio a la propia vida de uno. </string>
+
+    <string name="freddie">Freddie Mercury Rage Pose es un personaje Rage Comic hecho de una foto del fallecido músico británico y ex vocalista de la banda de rock Queen Freddie Mercury.
+        La imagen se suele utilizar para indicar que una proeza extraordinaria se ha logrado, similar a la ilustración de Fuck Yea. </string>
+
+    <string name="lol">Este meme representa a la gente que ríe o actúa de forma alocada.
+        Viene del acrónimo LOL (en inglés, laugh out loud, que significa "reírse en voz alta"). </string>
+
+    <string name="neil">El Dr Neil deGrasse Tyson nos habla sobre su Meme y lo que se siente ser un Meme viviente. * En el video puse el Meme como lo conocemos en español, es decir, "Gran Vaina".
+        En ingles, el Meme del Dr Tyson es "We got a badass over here" y se traduce como, "Aqui hay un malote". </string>
+
+    <string name="oh"> </string>
+
+    <string name="okay"> </string>
+
+    <string name="rage"> </string>
+
+    <string name="troll"> </string>
+
+    <string name="yuno"> </string>
+
+    <string name="yao"> </string>
+</resources>
